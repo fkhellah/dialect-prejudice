@@ -41,7 +41,6 @@ OPENAI_NAMES = {
 
 # Function to load pretrained language model
 def load_model(model_name):
-    print("resr")
     if model_name in GPT2_MODELS:
         return GPT2LMHeadModel.from_pretrained(
             model_name 
@@ -146,7 +145,7 @@ def load_pairs(variable):
 
 
 # Function to compute probabilities for next/masked/sentinel token
-def compute_probs(model, model_name, input_ids, decoder_input_ids,labels):
+def compute_probs(model, model_name, input_ids, labels):
     if model_name in GPT2_MODELS:
         output = model(input_ids=input_ids)
         probs = F.softmax(output.logits, dim=-1)[0][-1]
@@ -154,7 +153,7 @@ def compute_probs(model, model_name, input_ids, decoder_input_ids,labels):
         output = model(input_ids=input_ids)
         probs = F.softmax(output.logits, dim=-1)[0][-2]
     elif model_name in T5_MODELS:
-        output = model(input_ids=input_ids, decoder_input_ids=decoder_input_ids,labels=labels)
+        output = model(input_ids=input_ids, labels=labels)
         probs = F.softmax(output.logits, dim=-1)[0][-1] 
     else:
         raise ValueError(f"Model {model_name} not supported.")
@@ -165,14 +164,12 @@ def compute_probs(model, model_name, input_ids, decoder_input_ids,labels):
 def get_attribute_probs(prompt, attributes, model, model_name, tok, device, labels):
     input_ids = torch.tensor([tok.encode(prompt)])
     input_ids = input_ids.to(device)
-    decoder_input_ids = torch.tensor([[tok.pad_token_id]])
-    decoder_input_ids = decoder_input_ids.to(device) 
+
     # Pass prompt through model
     probs = compute_probs(
         model, 
         model_name, 
         input_ids, 
-        decoder_input_ids,
         labels
     )
 
