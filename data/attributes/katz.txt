@@ -42,3 +42,11 @@ accent
 pragmatic
 limited
 awkward
+ncompetent
+foolish
+accented
+broken
+limited
+childlike
+foreigner
+struggling
