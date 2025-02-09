@@ -117,5 +117,3 @@ I will make a shower	I will take a shower
 I will give an exam	I will take an exam
 I will make a photo	I will take a photo
 I will make a decision	I will decide
-
-
