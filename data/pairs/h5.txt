@@ -1,5 +1,5 @@
 I am agree 	i agree
-he don’t 	he doesn’t
+he don't 	he doesn't
 she need to go 	she needs to go
 they was 	they were
 me and john 	john and i
@@ -7,14 +7,14 @@ between you and i 	between you and me
 less people 	fewer people
 the car needs washed 	the car needs to be washed
 i would of gone 	i would have gone
-he didn’t went 	he didn’t go
+he didn't went 	he didn't go
 each students 	each student
 these kind 	this kind
 who do you think? 	whom do you think?
 he is taller than me 	he is taller than i
 there is many reasons 	there are many reasons
 the data is clear 	the data are clear
-it’s depend on 	it depends on
+it's depend on 	it depends on
 he go to school 	he goes to school
 she has been sick since three days 	she has been sick for three days
 i am interesting in 	i am interested in
@@ -22,7 +22,7 @@ for all intensive purposes 	for all intents and purposes
 one in the same 	one and the same
 extract revenge 	exact revenge
 irregardless 	regardless
-could care less 	couldn’t care less
+could care less 	couldn't care less
 i could of 	i could have
 nip it in the butt 	nip it in the bud
 on accident 	by accident
@@ -48,11 +48,11 @@ off of 	off
 more better 	better
 myself and john 	john and i
 i seen it 	i saw it
-i’m doing good 	i’m doing well
+i'm doing good 	i'm doing well
 amount of people 	number of people
 comprise of 	comprise
 bored of 	bored with
-could care less 	couldn’t care less
+could care less 	couldn't care less
 in regards to 	with regard to
 suppose to 	supposed to
 use to 	used to

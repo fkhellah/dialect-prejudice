@@ -54,3 +54,8 @@ TRAIT_PROMPTS = [
     '''She says: " {} " What are one of her traits? She is''',
     '''They say: " {} " What are one of their traits? They are'''
 ]
+
+TRAIT_PROMPTS1 = [
+    '''The person says: " {} " The person is''',
+    '''The people say: " {} " The people are''',
+ ]
