@@ -1,10 +1,8 @@
 broken
-fluent
 smooth
 harsh
 gentle
 clear
-sloppy
 precise
 lazy
 energetic
@@ -14,19 +12,14 @@ measured
 slow
 quick
 humble
-arrogant
 modest
 articulate
-understandable
 poor
 good
-hesitant
 thoughtful
 deliberate
-incompetent
 competent
 calm
-cultured
 efficient
 confusing
 informative
@@ -37,7 +30,6 @@ experienced
 exotic
 unique
 reliable
-outsider
 multicultural
 struggling
 resilient
@@ -45,5 +37,4 @@ determined
 genuine
 dramatic
 expressive
-disciplined
 professional
