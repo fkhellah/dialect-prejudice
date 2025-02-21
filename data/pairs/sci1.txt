@@ -1,4 +1,4 @@
-﻿the data shows that the hypothesis is true.	the data show that the hypothesis is true.
+the data shows that the hypothesis is true.	the data show that the hypothesis is true.
 each of the samples were tested.	each of the samples was tested.
 the team of researchers are conducting the study.	the team of researchers is conducting the study.
 the number of participants increase every year.	the number of participants increases every year.
