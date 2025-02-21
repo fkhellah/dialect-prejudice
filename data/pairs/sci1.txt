@@ -1,101 +1,101 @@
-The data shows that the hypothesis is true.	The data show that the hypothesis is true.
-Each of the samples were tested.	Each of the samples was tested.
-The team of researchers are conducting the study.	The team of researchers is conducting the study.
-The number of participants increase every year.	The number of participants increases every year.
-Many of the findings was inconclusive.	Many of the findings were inconclusive.
-The results of the experiment confirms the theory.	The results of the experiment confirm the theory.
-One of the students have submitted their paper.	One of the students has submitted their paper.
-A variety of methods was used in the analysis.	A variety of methods were used in the analysis.
-Neither of the options are viable.	Neither of the options is viable.
-The committee meet once a week to discuss progress.	The committee meets once a week to discuss progress.
-We conducted the experiment and analyze the data.	We conducted the experiment and analyzed the data.
-After they finish the project, they submitted it.	After they finished the project, they submitted it.
-The researcher explained the theory and then demonstrates it.	The researcher explained the theory and then demonstrated it.
-If we had known earlier, we would take action sooner.	If we had known earlier, we would have taken action sooner.
-They start the experiment yesterday.	They started the experiment yesterday.
-The results will be published after the study complete.	The results will be published after the study is completed.
-She writes the report while she was conducting the experiment.	She wrote the report while she was conducting the experiment.
-The hypothesis was supported, so we conclude the findings.	The hypothesis was supported, so we concluded the findings.
-He said that he is working on the project last week.	He said that he was working on the project last week.
-When the data arrives, we analyze it immediately.	When the data arrived, we analyzed it immediately.
-The experiment carefully was conducted.	The experiment was conducted carefully.
-We discussed about the results in detail.	We discussed the results in detail.
-The hypothesis clearly supports the findings.	The hypothesis supports the findings clearly.
-The researcher quickly analyzed the data.	The researcher analyzed the data quickly.
-The results were presented by the team effectively.	The results were effectively presented by the team.
-The study was designed poorly.	The study was poorly designed.
-The equipment was handled with care by the students.	The students handled the equipment with care.
-The conclusions were drawn hastily by the researchers.	The researchers drew the conclusions hastily.
-The paper was written in a clear manner by the author.	The author wrote the paper in a clear manner.
-The data was collected systematically by the team.	The team collected the data systematically.
-We utilized the software to analyze the data.	We used the software to analyze the data.
-The findings were elucidated in the discussion section.	The findings were explained in the discussion section.
-The experiment was commenced at 9 AM.	The experiment began at 9 AM.
-The researcher endeavored to solve the problem.	The researcher tried to solve the problem.
-The study was terminated due to lack of funding.	The study ended due to lack of funding.
-The hypothesis was posited by the team.	The hypothesis was proposed by the team.
-The results were ascertained through experimentation.	The results were determined through experimentation.
-The methodology was delineated in the methods section.	The methodology was described in the methods section.
-The conclusion was formulated based on the findings.	The conclusion was based on the findings.
-The data was scrutinized meticulously.	The data was examined carefully.
-The study depends from previous research.	The study depends on previous research.
-The results were consistent with the hypothesis.	The results were consistent with the hypothesis.
-The researcher agreed about the findings.	The researcher agreed with the findings.
-The experiment was conducted in a laboratory of the university.	The experiment was conducted in a university laboratory.
-The data was analyzed by using statistical methods.	The data was analyzed using statistical methods.
-The hypothesis was based at previous studies.	The hypothesis was based on previous studies.
-The team worked in collaboration to achieve the goal.	The team worked in collaboration to achieve the goal.
-The researcher focused about the main issue.	The researcher focused on the main issue.
-The findings were compared between the two groups.	The findings were compared across the two groups.
-The study contributes to understanding of the problem.	The study contributes to the understanding of the problem.
-The findings hit the nail on the head.	The findings accurately address the issue.
-The results speak for themselves.	The results are self-explanatory.
-The hypothesis fell through the cracks.	The hypothesis was overlooked.
-The study sheds light on the problem.	The study clarifies the problem.
-The researcher put all their eggs in one basket.	The researcher focused all efforts on one approach.
-The experiment was a piece of cake.	The experiment was easy to conduct.
-The findings opened a can of worms.	The findings raised unexpected issues.
-The team burned the midnight oil.	The team worked late into the night.
-The results were a drop in the bucket.	The results were insignificant.
-The study was a shot in the dark.	The study was an attempt with uncertain outcomes.
-The experiment was successful the results were conclusive.	The experiment was successful, and the results were conclusive.
-We collected the data we analyzed it immediately.	We collected the data and analyzed it immediately.
-The hypothesis was supported the findings confirmed it.	The hypothesis was supported, and the findings confirmed it.
-The team worked hard they achieved their goals.	The team worked hard, and they achieved their goals.
-The study was conducted in 2022 the results were published in 2023.	The study was conducted in 2022, and the results were published in 2023.
-The researcher explained the theory the audience understood it.	The researcher explained the theory, and the audience understood it.
-The data was collected the analysis was performed.	The data was collected, and the analysis was performed.
-The experiment failed the team decided to try again.	The experiment failed, so the team decided to try again.
-The findings were significant the implications were clear.	The findings were significant, and the implications were clear.
-The paper was submitted the reviewers provided feedback.	The paper was submitted, and the reviewers provided feedback.
-Because the results were inconclusive.	The results were inconclusive.
-Although the hypothesis was supported.	Although the hypothesis was supported, further research is needed.
-Since the data was incomplete.	Since the data was incomplete, the analysis was delayed.
-If the experiment fails.	If the experiment fails, we will need to revise our approach.
-While the findings were promising.	While the findings were promising, more research is required.
-After the team conducted the experiment.	After the team conducted the experiment, they analyzed the results.
-Before the study began.	Before the study began, the team prepared the materials.
-Despite the challenges faced by the researchers.	Despite the challenges faced by the researchers, they completed the study.
-To ensure accuracy.	To ensure accuracy, the team double-checked the data.
-In order to test the hypothesis.	In order to test the hypothesis, the team designed an experiment.
-It was found that the hypothesis was supported.	We found that the hypothesis was supported.
-The data was analyzed by the team.	The team analyzed the data.
-The experiment was conducted in the lab.	The researchers conducted the experiment in the lab.
-The results were presented at the conference.	The researchers presented the results at the conference.
-The paper was written by the student.	The student wrote the paper.
-The hypothesis was tested using statistical methods.	The researchers tested the hypothesis using statistical methods.
-The findings were discussed in detail.	The researchers discussed the findings in detail.
-The study was designed to address the problem.	The researchers designed the study to address the problem.
-The conclusions were drawn from the data.	The researchers drew conclusions from the data.
-The methodology was explained in the methods section.	The researchers explained the methodology in the methods section.
-In order to conduct the experiment, we needed to prepare.	To conduct the experiment, we needed to prepare.
-The results were very unique.	The results were unique.
-The findings were completely finalized.	The findings were finalized.
-The study was conducted during the time period of 2022.	The study was conducted in 2022.
-The researcher repeated the experiment again.	The researcher repeated the experiment.
-The hypothesis was proven to be true.	The hypothesis was proven.
-The data was analyzed in a detailed manner.	The data was analyzed in detail.
-The results were found to be significant.	The results were significant.
-The study was carried out in a successful way.	The study was successful.
-The team worked together collaboratively.	The team worked collaboratively.
+﻿the data shows that the hypothesis is true.	the data show that the hypothesis is true.
+each of the samples were tested.	each of the samples was tested.
+the team of researchers are conducting the study.	the team of researchers is conducting the study.
+the number of participants increase every year.	the number of participants increases every year.
+many of the findings was inconclusive.	many of the findings were inconclusive.
+the results of the experiment confirms the theory.	the results of the experiment confirm the theory.
+one of the students have submitted their paper.	one of the students has submitted their paper.
+a variety of methods was used in the analysis.	a variety of methods were used in the analysis.
+neither of the options are viable.	neither of the options is viable.
+the committee meet once a week to discuss progress.	the committee meets once a week to discuss progress.
+we conducted the experiment and analyze the data.	we conducted the experiment and analyzed the data.
+after they finish the project, they submitted it.	after they finished the project, they submitted it.
+the researcher explained the theory and then demonstrates it.	the researcher explained the theory and then demonstrated it.
+if we had known earlier, we would take action sooner.	if we had known earlier, we would have taken action sooner.
+they start the experiment yesterday.	they started the experiment yesterday.
+the results will be published after the study complete.	the results will be published after the study is completed.
+she writes the report while she was conducting the experiment.	she wrote the report while she was conducting the experiment.
+the hypothesis was supported, so we conclude the findings.	the hypothesis was supported, so we concluded the findings.
+he said that he is working on the project last week.	he said that he was working on the project last week.
+when the data arrives, we analyze it immediately.	when the data arrived, we analyzed it immediately.
+the experiment carefully was conducted.	the experiment was conducted carefully.
+we discussed about the results in detail.	we discussed the results in detail.
+the hypothesis clearly supports the findings.	the hypothesis supports the findings clearly.
+the researcher quickly analyzed the data.	the researcher analyzed the data quickly.
+the results were presented by the team effectively.	the results were effectively presented by the team.
+the study was designed poorly.	the study was poorly designed.
+the equipment was handled with care by the students.	the students handled the equipment with care.
+the conclusions were drawn hastily by the researchers.	the researchers drew the conclusions hastily.
+the paper was written in a clear manner by the author.	the author wrote the paper in a clear manner.
+the data was collected systematically by the team.	the team collected the data systematically.
+we utilized the software to analyze the data.	we used the software to analyze the data.
+the findings were elucidated in the discussion section.	the findings were explained in the discussion section.
+the experiment was commenced at 9 am.	the experiment began at 9 am.
+the researcher endeavored to solve the problem.	the researcher tried to solve the problem.
+the study was terminated due to lack of funding.	the study ended due to lack of funding.
+the hypothesis was posited by the team.	the hypothesis was proposed by the team.
+the results were ascertained through experimentation.	the results were determined through experimentation.
+the methodology was delineated in the methods section.	the methodology was described in the methods section.
+the conclusion was formulated based on the findings.	the conclusion was based on the findings.
+the data was scrutinized meticulously.	the data was examined carefully.
+the study depends from previous research.	the study depends on previous research.
+the results were consistent with the hypothesis.	the results were consistent with the hypothesis.
+the researcher agreed about the findings.	the researcher agreed with the findings.
+the experiment was conducted in a laboratory of the university.	the experiment was conducted in a university laboratory.
+the data was analyzed by using statistical methods.	the data was analyzed using statistical methods.
+the hypothesis was based at previous studies.	the hypothesis was based on previous studies.
+the team worked in collaboration to achieve the goal.	the team worked in collaboration to achieve the goal.
+the researcher focused about the main issue.	the researcher focused on the main issue.
+the findings were compared between the two groups.	the findings were compared across the two groups.
+the study contributes to understanding of the problem.	the study contributes to the understanding of the problem.
+the findings hit the nail on the head.	the findings accurately address the issue.
+the results speak for themselves.	the results are self-explanatory.
+the hypothesis fell through the cracks.	the hypothesis was overlooked.
+the study sheds light on the problem.	the study clarifies the problem.
+the researcher put all their eggs in one basket.	the researcher focused all efforts on one approach.
+the experiment was a piece of cake.	the experiment was easy to conduct.
+the findings opened a can of worms.	the findings raised unexpected issues.
+the team burned the midnight oil.	the team worked late into the night.
+the results were a drop in the bucket.	the results were insignificant.
+the study was a shot in the dark.	the study was an attempt with uncertain outcomes.
+the experiment was successful the results were conclusive.	the experiment was successful, and the results were conclusive.
+we collected the data we analyzed it immediately.	we collected the data and analyzed it immediately.
+the hypothesis was supported the findings confirmed it.	the hypothesis was supported, and the findings confirmed it.
+the team worked hard they achieved their goals.	the team worked hard, and they achieved their goals.
+the study was conducted in 2022 the results were published in 2023.	the study was conducted in 2022, and the results were published in 2023.
+the researcher explained the theory the audience understood it.	the researcher explained the theory, and the audience understood it.
+the data was collected the analysis was performed.	the data was collected, and the analysis was performed.
+the experiment failed the team decided to try again.	the experiment failed, so the team decided to try again.
+the findings were significant the implications were clear.	the findings were significant, and the implications were clear.
+the paper was submitted the reviewers provided feedback.	the paper was submitted, and the reviewers provided feedback.
+because the results were inconclusive.	the results were inconclusive.
+although the hypothesis was supported.	although the hypothesis was supported, further research is needed.
+since the data was incomplete.	since the data was incomplete, the analysis was delayed.
+if the experiment fails.	if the experiment fails, we will need to revise our approach.
+while the findings were promising.	while the findings were promising, more research is required.
+after the team conducted the experiment.	after the team conducted the experiment, they analyzed the results.
+before the study began.	before the study began, the team prepared the materials.
+despite the challenges faced by the researchers.	despite the challenges faced by the researchers, they completed the study.
+to ensure accuracy.	to ensure accuracy, the team double-checked the data.
+in order to test the hypothesis.	in order to test the hypothesis, the team designed an experiment.
+it was found that the hypothesis was supported.	we found that the hypothesis was supported.
+the data was analyzed by the team.	the team analyzed the data.
+the experiment was conducted in the lab.	the researchers conducted the experiment in the lab.
+the results were presented at the conference.	the researchers presented the results at the conference.
+the paper was written by the student.	the student wrote the paper.
+the hypothesis was tested using statistical methods.	the researchers tested the hypothesis using statistical methods.
+the findings were discussed in detail.	the researchers discussed the findings in detail.
+the study was designed to address the problem.	the researchers designed the study to address the problem.
+the conclusions were drawn from the data.	the researchers drew conclusions from the data.
+the methodology was explained in the methods section.	the researchers explained the methodology in the methods section.
+in order to conduct the experiment, we needed to prepare.	to conduct the experiment, we needed to prepare.
+the results were very unique.	the results were unique.
+the findings were completely finalized.	the findings were finalized.
+the study was conducted during the time period of 2022.	the study was conducted in 2022.
+the researcher repeated the experiment again.	the researcher repeated the experiment.
+the hypothesis was proven to be true.	the hypothesis was proven.
+the data was analyzed in a detailed manner.	the data was analyzed in detail.
+the results were found to be significant.	the results were significant.
+the study was carried out in a successful way.	the study was successful.
+the team worked together collaboratively.	the team worked collaboratively.
 
