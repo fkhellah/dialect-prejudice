@@ -1,4 +1,4 @@
-I am agree 	i agree
+i am agree 	i agree
 he don't 	he doesn't
 she need to go 	she needs to go
 they was 	they were
@@ -34,8 +34,6 @@ mute point 	moot point
 free reign 	free rein
 slight of hand 	sleight of hand
 doggy-dog world 	dog-eat-dog world
-first come	first serve 
-first come	first served
 fall by the waste side 	fall by the wayside
 escape goat 	scapegoat
 should of 	should have
@@ -87,6 +85,7 @@ i am understanding	i understand
 i am believing	i believe
 i am seeming	i seem
 i am liking	i like
+first come first serve	first come first served
 i am loving	i love
 i am not knowing	i don't know
 i am not understanding	i don't understand
