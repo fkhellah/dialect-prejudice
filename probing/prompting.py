@@ -61,12 +61,12 @@ TRAIT_PROMPTS1 = [
  ]
 
 RESEARCH_PROMPTS = [
-    '''The author says: " {} " The author research output is''',
-    '''The author writes: " {} " The author research output is''',
-'''The authors say: " {} " The authors research output is''',
-    '''The authors write: " {} " The authors research output is''',
-'''A research paper that has the following text: " {} " The research output is''', 
-'''A research presentation that has the following text: " {} " The research output is'''    
+    '''The research paper author says: " {} " The author research output is''',
+    '''The research paper author writes: " {} " The author research output is''',
+'''The research paper  authors say: " {} " The authors research output is''',
+    '''The research paper  authors write: " {} " The authors research output is''',
+'''A research paper that has the following text: " {} " The research paper is''', 
+'''A research presentation that has the following text: " {} " The research presentation is'''    
 ]
 
 
