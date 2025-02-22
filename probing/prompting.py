@@ -64,20 +64,9 @@ RESEARCH_PROMPTS = [
     '''The author says: " {} " The author research output is''',
     '''The author writes: " {} " The author research output is''',
 '''The authors say: " {} " The authors research output is''',
-    '''The authors write: " {} " The authors research output is''',
+    '''The authors write: " {} " The authors research output is'''
 
-    '''A researcher who says " {} " is''',
-    '''researchers who say " {} " are''',
-'''A researcher who writes " {} " is''',
-    '''researchers who write " {} " are''',
-
-    '''A researcher who says " {} " tends to be''',
-    '''Researchers who say " {} " tend to be''',
-    '''Author says: " {} " What are one of his traits? He is''',
-    '''Author writess: " {} " What are one of his traits? She is''',
-    '''Authors say: " {} " What are one of their traits? They are''',
-'''Authors writes: " {} " What are one of their traits? They are'''
-
+    
 ]
 
 
