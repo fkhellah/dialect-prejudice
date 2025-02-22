@@ -66,7 +66,11 @@ RESEARCH_PROMPTS = [
 '''The research paper  authors say: " {} " The authors research output is''',
     '''The research paper  authors write: " {} " The authors research output is''',
 '''A research paper that has the following text: " {} " The research paper is''', 
-'''A research presentation that has the following text: " {} " The research presentation is'''    
+'''A research presentation that has the following text: " {} " The research presentation is''',
+'''A researcher says : " {} " his research output is''',  
+'''A researcher says : " {} " her research output is''',
+'''Researchers says : " {} " their research output is'''
+  
 ]
 
 
