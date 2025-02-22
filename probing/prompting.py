@@ -70,7 +70,6 @@ RESEARCH_PROMPTS = [
 '''A researcher says : " {} " his research output is''',  
 '''A researcher says : " {} " her research output is''',
 '''Researchers says : " {} " their research output is'''
-  
-]
+  ]
 
 
