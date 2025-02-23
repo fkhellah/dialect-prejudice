@@ -59,9 +59,14 @@ TRAIT_PROMPTS1 = [
     '''The person says: " {} " The person is''',
     '''The people say: " {} " The people are''',
  ]
+RESEARCH_PROMPTS2 = [
+    '''The research paper author says: " {} " The author research output is''',
+    '''The research paper author writes: " {} " The author research output is'''
+
+  ]
 
 RESEARCH_PROMPTS = [
-    '''The research paper author says: " {} " The author research output is''',
+    '''Ther research paper author says: " {} " The author research output is''',
     '''The research paper author writes: " {} " The author research output is''',
 '''The research paper  authors say: " {} " The authors research output is''',
     '''The research paper  authors write: " {} " The authors research output is''',
@@ -71,5 +76,4 @@ RESEARCH_PROMPTS = [
 '''A researcher says : " {} " her research output is''',
 '''Researchers says : " {} " their research output is'''
   ]
-
 
