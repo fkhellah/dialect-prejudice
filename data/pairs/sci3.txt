@@ -1,16 +1,16 @@
-﻿the data shows	the data show
+the data shows	the data show
 the samples were	the samples was
 the team of researchers are	the team of researchers 
 the number of participants increase	the number of participants increases
 many of the findings was	many of the findings were
 the results of the experiment confirms	the results of the experiment confirm
-one of the students have submitted		one of the students has submitted
-a variety of methods was	a variety of methods
+one of the students have submitted	one of the students has submitted
+a variety of methods was	a variety of methods were
 neither of the options are	neither of the options is
 the committee meet	the committee meets
 we conducted the experiment and analyze	we conducted the experiment and analyzed
-after they finish the project, they submitted it	after they finished the project, they submitted it
-he explained the theory and then demonstrates it	he explained the theory and then demonstrated it
+after they finish it, they submitted it	after they finished it, they submitted it
+he explained it and then demonstrates it	he explained it and then demonstrated it
 if we had known earlier, we would take action sooner	if we had known earlier, we would have taken action sooner
 they start yesterday	they started yesterday
 it will be published after the study complete	it will be published after the study is completed
