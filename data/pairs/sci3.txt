@@ -1,6 +1,6 @@
 the data shows	the data show
 the samples were	the samples was
-the team of researchers are	the team of researchers 
+they is working	they are working
 the number of participants increase	the number of participants increases
 many of the findings was	many of the findings were
 the results of the experiment confirms	the results of the experiment confirm
@@ -16,7 +16,7 @@ they start yesterday	they started yesterday
 it will be published after the study complete	it will be published after the study is completed
 she writes the report while she was conducting	she wrote the report while she was conducting
 it was supported, so we conclude	it was supported, so we concluded
-he said that he is working last week	he said that he was working last week.
+he said that he is working last week	he said that he was working last week
 when it arrives, we analyze it	when it arrived, we analyzed it
 it carefully was conducted	it was conducted carefully
 we discussed about it	we discussed it
