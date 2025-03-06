@@ -41,7 +41,7 @@ OPENAI_NAMES = {
 
 # Function to load pretrained language model
 def load_model(model_name):
-    print("resr")
+   
     if model_name in GPT2_MODELS:
         return GPT2LMHeadModel.from_pretrained(
             model_name 
